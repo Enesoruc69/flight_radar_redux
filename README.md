@@ -21,4 +21,4 @@
 - **Axios**: For making HTTP requests to fetch flight data.
 - **Bootstrap**: CSS framework for responsive design.
 
-![GIF](radar.gif)# flight_radar_redux
+![GIF](radar.gif)
